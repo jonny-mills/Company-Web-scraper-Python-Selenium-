@@ -28,8 +28,8 @@ import csv ##import exporting to csv stuff
 
 #set working directory
 import os
-path="/Users/default/Desktop/Python Spyder"
-os.chdir(path)
+#path="/Users/default/Desktop/Python Spyder"
+#os.chdir(path)
 
 
 ##########################
