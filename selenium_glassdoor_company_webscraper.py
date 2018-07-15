@@ -33,7 +33,7 @@ import os
 
 
 ##########################
-######FUCTIONS ###########
+######FUNCTIONS ###########
 ##########################
 def check_exists_by_xpath(xpath):
     try:
